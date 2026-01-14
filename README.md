@@ -1,4 +1,4 @@
-❄️ Ski Dashboard – Global Ski Resort Analytics (Power BI)
+<img width="1495" height="742" alt="Snapshot of the Dahbaord" src="https://github.com/user-attachments/assets/bdb4de94-09f6-45c8-a43f-fd34a833c4ff" />❄️ Ski Dashboard – Global Ski Resort Analytics (Power BI)
 1. Project Overview
 
 Ski Dashboard is an interactive Power BI data visualization project designed to analyze and compare ski resorts across the globe. It enables users to explore regional patterns, resort infrastructure, terrain difficulty, and skier suitability using intuitive visuals and filters.
@@ -192,4 +192,8 @@ Open it using Power BI Desktop
 Use slicers and filters to explore continents, countries, and resort features
 
 Hover over visuals for detailed insights
+
+
+
+
 
